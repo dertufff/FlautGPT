@@ -10,7 +10,7 @@ import re
 import html
 import os
 
-BOT_TOKEN = os.getenv('BOT_TOKEN', "7236643509:AAEhGGP9CPnRcJVTHojegpBiGwk9oREXg_A")
+BOT_TOKEN = os.getenv('BOT_TOKEN', "REAL_BOT_TOKEN")
 CHANNEL_ID = "@pro_flauta"
 
 bot = Bot(token=BOT_TOKEN)
